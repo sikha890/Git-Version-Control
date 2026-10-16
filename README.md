@@ -1,4 +1,4 @@
-# Task: 4 DevOps Git Version Control Project
+#  DevOps Git Version Control Project
 
 ## 1. Project Overview
 
